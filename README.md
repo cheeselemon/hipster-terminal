@@ -1,11 +1,24 @@
 # hipster-terminal
 
-Examples
+
+### Uses 
+
+* figlet 
+
+* lolcat
+
 --------
-**ascii_banner**
+
+### Usage
 
 ```
-$ sh ascii_banner.sh cheeselemon big
+$ sh ascii_banner.sh <name> <font>
+```
+
+### Example
+
+```
+sh ascii_banner.sh cheeselemon big
 
                            | |                  | |                           
                         ___| |__   ___  ___  ___| | ___ _ __ ___   ___  _ __  
